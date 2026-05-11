@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "72acc992811cd878",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d0465ebd394f14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250c7598ca80a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dbms-comprehensive-solved-questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd071a3b6389f9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ac90f1d670f315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b808b07b3dca6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e5e2a0e37ddac27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc353663f5657463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10805528f81e754c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89a360bb6c8cfde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b03e83751e1d35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dbms-comprehensive-solved-questions"
+            }
+          },
+          {
+            "id": "bf25f036c0449154",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from dbms-comprehensive-solved-questions"
+            }
+          },
+          {
+            "id": "840ad5b08df75932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff8182a06a7c6271",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f15e5d9f6c2e439d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dbms-comprehensive-solved-questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "250c7598ca80a5f5",
+  "lastOpenFiles": [
+    "wiki/dbms/er-model-and-keys.md",
+    "wiki/dbms/dbms-fundamentals.md",
+    "AGENT.md",
+    "wiki/problems/dbms-comprehensive-solved-questions.md",
+    "wiki/dbms/transactions-and-security.md",
+    "wiki/dbms/normalization.md",
+    "wiki/dbms/sql-and-query-languages.md",
+    "wiki/dbms/relational-model.md",
+    "wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md",
+    "wiki/dbms/indexing-and-buffering.md",
+    "wiki/os/virtual-memory.md",
+    "wiki/problems/cache-mapping-practice.md",
+    "wiki/coa/io-interrupts-dma.md",
+    "wiki/coa/addressing-modes.md",
+    "wiki/coa/cache-mapping.md",
+    "wiki/coa/cache-memory.md",
+    "wiki/coa/memory-hierarchy.md",
+    "wiki/sources/source-cache-mapping-practice-problems.md",
+    "wiki/sources/source-coa-comprehensive-study-materials-kerala-notes.md",
+    "log.md",
+    "index.md",
+    "wiki/sources",
+    "wiki/problems",
+    "wiki/os",
+    "wiki/meta",
+    "wiki/flat",
+    "wiki/ds",
+    "wiki/dbms",
+    "wiki/comparisons",
+    "wiki/coa",
+    "wiki",
+    "Welcome.md",
+    "raw/WhatsApp Image 2026-05-10 at 9.39.59 AM.jpeg",
+    "raw/WhatsApp Image 2026-05-10 at 9.42.19 AM.jpeg"
+  ]
+}
