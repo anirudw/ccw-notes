@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "file": "wiki/problems/cache-mapping-practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dbms-comprehensive-solved-questions"
+              "title": "cache-mapping-practice"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "file": "wiki/problems/cache-mapping-practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dbms-comprehensive-solved-questions"
+              "title": "Backlinks for cache-mapping-practice"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "file": "wiki/problems/cache-mapping-practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dbms-comprehensive-solved-questions"
+              "title": "Outgoing links from cache-mapping-practice"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/problems/dbms-comprehensive-solved-questions.md",
+                "file": "wiki/problems/cache-mapping-practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dbms-comprehensive-solved-questions"
+              "title": "Outline of cache-mapping-practice"
             }
           }
         ]
@@ -186,9 +186,10 @@
   "active": "250c7598ca80a5f5",
   "lastOpenFiles": [
     "wiki/dbms/er-model-and-keys.md",
+    "wiki/problems/dbms-comprehensive-solved-questions.md",
+    "README.md",
     "wiki/dbms/dbms-fundamentals.md",
     "AGENT.md",
-    "wiki/problems/dbms-comprehensive-solved-questions.md",
     "wiki/dbms/transactions-and-security.md",
     "wiki/dbms/normalization.md",
     "wiki/dbms/sql-and-query-languages.md",
