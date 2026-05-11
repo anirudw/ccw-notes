@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/problems/cache-mapping-practice.md",
+                "file": "wiki/problems/previous-year-questions-solved.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cache-mapping-practice"
+              "title": "previous-year-questions-solved"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10805528f81e754c",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/problems/cache-mapping-practice.md",
+                "file": "wiki/problems/previous-year-questions-solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cache-mapping-practice"
+              "title": "Backlinks for previous-year-questions-solved"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/problems/cache-mapping-practice.md",
+                "file": "wiki/problems/previous-year-questions-solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cache-mapping-practice"
+              "title": "Outgoing links from previous-year-questions-solved"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/problems/cache-mapping-practice.md",
+                "file": "wiki/problems/previous-year-questions-solved.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cache-mapping-practice"
+              "title": "Outline of previous-year-questions-solved"
             }
           }
         ]
@@ -185,28 +186,32 @@
   },
   "active": "250c7598ca80a5f5",
   "lastOpenFiles": [
-    "wiki/dbms/er-model-and-keys.md",
-    "wiki/problems/dbms-comprehensive-solved-questions.md",
-    "README.md",
+    "wiki/problems/flat-comprehensive-solved-questions.md",
+    "wiki/flat/previous-year-patterns.md",
+    "wiki/dbms/previous-year-patterns.md",
+    "wiki/coa/previous-year-patterns.md",
+    "wiki/os/previous-year-patterns.md",
+    "wiki/ds/previous-year-patterns.md",
+    "wiki/problems/previous-year-questions-solved.md",
+    "wiki/sources/source-previous-year-question-papers.md",
+    "wiki/dbms/indexing-and-buffering.md",
+    "wiki/flat/chomsky-hierarchy-and-closure.md",
+    "wiki/flat/turing-machines-decidability.md",
+    "wiki/flat/context-free-languages-pda.md",
+    "wiki/flat/finite-automata-regular-languages.md",
+    "wiki/sources/source-flat-comprehensive-study-materials-kerala-notes.md",
+    "wiki/dbms/transactions-and-security.md",
+    "wiki/dbms/relational-model.md",
+    "wiki/dbms/normalization.md",
     "wiki/dbms/dbms-fundamentals.md",
     "AGENT.md",
-    "wiki/dbms/transactions-and-security.md",
-    "wiki/dbms/normalization.md",
-    "wiki/dbms/sql-and-query-languages.md",
-    "wiki/dbms/relational-model.md",
-    "wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md",
-    "wiki/dbms/indexing-and-buffering.md",
-    "wiki/os/virtual-memory.md",
-    "wiki/problems/cache-mapping-practice.md",
-    "wiki/coa/io-interrupts-dma.md",
-    "wiki/coa/addressing-modes.md",
-    "wiki/coa/cache-mapping.md",
-    "wiki/coa/cache-memory.md",
-    "wiki/coa/memory-hierarchy.md",
-    "wiki/sources/source-cache-mapping-practice-problems.md",
-    "wiki/sources/source-coa-comprehensive-study-materials-kerala-notes.md",
-    "log.md",
     "index.md",
+    "wiki/problems/dbms-comprehensive-solved-questions.md",
+    "wiki/problems/cache-mapping-practice.md",
+    "wiki/dbms/er-model-and-keys.md",
+    "README.md",
+    "wiki/dbms/sql-and-query-languages.md",
+    "wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md",
     "wiki/sources",
     "wiki/problems",
     "wiki/os",
@@ -217,7 +222,6 @@
     "wiki/comparisons",
     "wiki/coa",
     "wiki",
-    "Welcome.md",
     "raw/WhatsApp Image 2026-05-10 at 9.39.59 AM.jpeg",
     "raw/WhatsApp Image 2026-05-10 at 9.42.19 AM.jpeg"
   ]

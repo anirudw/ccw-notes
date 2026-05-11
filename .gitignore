@@ -1,2 +1,5 @@
 .deps
 .tmp_pdf_images
+.tmp_flat_images
+.tmp_pyq_extract
+.tmp_pyq_images

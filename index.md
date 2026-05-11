@@ -1,11 +1,21 @@
 # CS Core Wiki Index
 
-**Last updated:** 2026-05-11
+**Last updated:** 2026-05-12
 
 This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 
+## DS
+
+- [DS Previous Year Patterns](wiki/ds/previous-year-patterns.md) - BST, traversal, stacks, queues, hashing, sorting, and expression conversion. #high-yield
+
+## OS
+
+- [OS Previous Year Patterns](wiki/os/previous-year-patterns.md) - scheduling, semaphores, deadlocks, paging, TLBs, and disk scheduling. #high-yield
+- [Virtual Memory](wiki/os/virtual-memory.md) - OS page mapping and replacement concepts connected to COA cache locality.
+
 ## COA
 
+- [COA Previous Year Patterns](wiki/coa/previous-year-patterns.md) - cache, addressing modes, DMA, interrupts, pipelining, and hazards. #high-yield
 - [Memory Hierarchy](wiki/coa/memory-hierarchy.md) - registers, cache, main memory, secondary storage. #high-yield
 - [Cache Memory](wiki/coa/cache-memory.md) - locality, hit ratio, write-through, access time. #high-yield
 - [Cache Mapping](wiki/coa/cache-mapping.md) - direct, associative, and set-associative address formats. #high-yield
@@ -14,6 +24,7 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 
 ## DBMS
 
+- [DBMS Previous Year Patterns](wiki/dbms/previous-year-patterns.md) - keys, SQL, normalization, indexing, transactions, and recovery. #high-yield
 - [DBMS Fundamentals](wiki/dbms/dbms-fundamentals.md) - DBMS definition, components, features, metadata. #high-yield
 - [Relational Model](wiki/dbms/relational-model.md) - relation, tuple, attribute, domain, schema, instance. #high-yield
 - [ER Model and Keys](wiki/dbms/er-model-and-keys.md) - entity sets, weak entities, key types, ER symbols. #high-yield
@@ -21,6 +32,14 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 - [Normalization](wiki/dbms/normalization.md) - 2NF through 5NF and redundancy control. #high-yield
 - [Transactions and Security](wiki/dbms/transactions-and-security.md) - ACID, locks, roles, revoke, encryption. #high-yield
 - [Indexing and Buffering](wiki/dbms/indexing-and-buffering.md) - buffer pool, disk block transfers, hashing, storage. #high-yield
+
+## FLAT
+
+- [FLAT Previous Year Patterns](wiki/flat/previous-year-patterns.md) - regex, automata, closure, grammars, PDA, and decidability. #high-yield
+- [Finite Automata and Regular Languages](wiki/flat/finite-automata-regular-languages.md) - DFA/NFA, regular expressions, closure, state counts. #high-yield
+- [Context-Free Languages and PDA](wiki/flat/context-free-languages-pda.md) - CFL closure, PDA/DPDA, grammar forms. #high-yield
+- [Turing Machines and Decidability](wiki/flat/turing-machines-decidability.md) - recursive/R.E. languages, decidability, Rice theorem. #high-yield
+- [Chomsky Hierarchy and Closure](wiki/flat/chomsky-hierarchy-and-closure.md) - class containment, closure table, countability. #high-yield
 
 ## Cross-Bucket Concepts
 
@@ -31,13 +50,17 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 
 - [Cache Mapping Practice](wiki/problems/cache-mapping-practice.md) - solved address-bit and set-count problems from the cache practice PDF.
 - [DBMS Comprehensive Solved Questions](wiki/problems/dbms-comprehensive-solved-questions.md) - complete coverage of 108 DBMS question entries.
+- [FLAT Comprehensive Solved Questions](wiki/problems/flat-comprehensive-solved-questions.md) - complete coverage of 128 FLAT answer-key entries.
+- [Previous Year Questions - Solved and Grouped](wiki/problems/previous-year-questions-solved.md) - 250 attended PYQs grouped into DS, OS, COA, DBMS, FLAT, and outside-bucket preservation.
 
 ## Sources
 
 - [COA Comprehensive Study Materials - Kerala Notes](wiki/sources/source-coa-comprehensive-study-materials-kerala-notes.md)
 - [Cache Mapping - Practice Problems](wiki/sources/source-cache-mapping-practice-problems.md)
 - [DBMS Comprehensive Study Materials - Kerala Notes](wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md)
+- [FLAT Comprehensive Study Materials - Kerala Notes](wiki/sources/source-flat-comprehensive-study-materials-kerala-notes.md)
+- [Previous Year Question Papers](wiki/sources/source-previous-year-question-papers.md)
 
 ## Thin Buckets
 
-- DS and FLAT currently have no topic coverage. OS has cross-reference scaffolding. DBMS and COA now have initial exam-topic coverage.
+- DS and OS now have PYQ pattern entry points. Broader DS topic pages and deeper OS topic pages remain the thinnest areas.
