@@ -28,3 +28,7 @@
 - Created source page `wiki/sources/source-flat-comprehensive-study-materials-kerala-notes.md`.
 - Flagged source defects and corrected high-risk answers, including Chapter 1 Level 1 Q06/Q17, Chapter 1 Level 2 Q09/Q17, Chapter 2 Level 1 Q03, Chapter 2 Level 2 Q07/Q08/Q11/Q12, Chapter 3 Level 1 Q11/Q14, and Chapter 3 Level 2 Q01/Q05/Q20/Q23.
 - Confirmed Chapter 3 Level 1 Q25 and Q26 prompts are absent from the rendered PDF; kept answer-key-only rows for coverage.
+- Ingested `raw/DS1.pdf` and the two WhatsApp image complexity sheets in `raw/`.
+- Created `wiki/sources/source-ds1-and-supporting-images.md` and `wiki/problems/ds1-solved-questions.md`.
+- Added DS topic pages for linear structures, trees/search trees, graph traversal, sorting/searching, and hashing.
+- Flagged DS1 OCR/source caveats: image-only BFS prompts, complexity table assumptions, and the Catalan formula convention for binary trees.

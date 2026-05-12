@@ -7,6 +7,11 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 ## DS
 
 - [DS Previous Year Patterns](wiki/ds/previous-year-patterns.md) - BST, traversal, stacks, queues, hashing, sorting, and expression conversion. #high-yield
+- [Linear Structures](wiki/ds/linear-structures.md) - arrays, stacks, queues, circular queues, and linked-list traversal. #high-yield
+- [Trees and Search Trees](wiki/ds/trees-and-search-trees.md) - binary tree traversal, reconstruction, BST search/insertion, Catalan counts, and balanced tree costs. #high-yield
+- [Graph Traversal](wiki/ds/graph-traversal.md) - BFS queue logic, disconnected graph traversal, and traversal complexity. #high-yield
+- [Sorting and Searching](wiki/ds/sorting-and-searching.md) - linear/binary search, sorting complexity table, merge cost, and exam traps. #high-yield
+- [Hashing](wiki/ds/hashing.md) - hash functions, collisions, separate chaining, and average/worst-case costs. #high-yield
 
 ## OS
 
@@ -49,12 +54,14 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 ## Problems
 
 - [Cache Mapping Practice](wiki/problems/cache-mapping-practice.md) - solved address-bit and set-count problems from the cache practice PDF.
+- [DS1 Solved Questions and Complexity Sheets](wiki/problems/ds1-solved-questions.md) - 15 DS revision entries plus supporting search/sort complexity images.
 - [DBMS Comprehensive Solved Questions](wiki/problems/dbms-comprehensive-solved-questions.md) - complete coverage of 108 DBMS question entries.
 - [FLAT Comprehensive Solved Questions](wiki/problems/flat-comprehensive-solved-questions.md) - complete coverage of 128 FLAT answer-key entries.
 - [Previous Year Questions - Solved and Grouped](wiki/problems/previous-year-questions-solved.md) - 250 attended PYQs grouped into DS, OS, COA, DBMS, FLAT, and outside-bucket preservation.
 
 ## Sources
 
+- [DS1 and Supporting Images](wiki/sources/source-ds1-and-supporting-images.md)
 - [COA Comprehensive Study Materials - Kerala Notes](wiki/sources/source-coa-comprehensive-study-materials-kerala-notes.md)
 - [Cache Mapping - Practice Problems](wiki/sources/source-cache-mapping-practice-problems.md)
 - [DBMS Comprehensive Study Materials - Kerala Notes](wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md)
@@ -63,4 +70,4 @@ This catalogue tracks the local study wiki described in [AGENT.md](AGENT.md).
 
 ## Thin Buckets
 
-- DS and OS now have PYQ pattern entry points. Broader DS topic pages and deeper OS topic pages remain the thinnest areas.
+- DS now has topic pages for the DS1 revision packet and PYQ patterns. Deeper OS topic pages remain the thinnest area.

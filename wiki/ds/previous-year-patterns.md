@@ -4,11 +4,11 @@
 **Prerequisites:** [Previous Year Questions - Solved and Grouped](../problems/previous-year-questions-solved.md)  
 **Exam Importance:** High  
 **Last updated:** 2026-05-12  
-**Sources:** [Previous Year Question Papers](../sources/source-previous-year-question-papers.md)
+**Sources:** [Previous Year Question Papers](../sources/source-previous-year-question-papers.md), [DS1 and Supporting Images](../sources/source-ds1-and-supporting-images.md)
 
 ## Summary
 
-The DS PYQs focus on fundamental operations and cost analysis: BST insertion/search, tree traversal, recursion stacks, queues, hashing, heap sort, insertion sort, quicksort, expression conversion, and linked-list traversal.
+The DS PYQs and DS1 revision packet focus on fundamental operations and cost analysis: BST insertion/search, tree traversal, recursion stacks, queues, hashing, heap sort, insertion sort, quicksort, expression conversion, BFS, and linked-list traversal.
 
 ## High-Yield Claims
 
@@ -30,3 +30,13 @@ The DS PYQs focus on fundamental operations and cost analysis: BST insertion/sea
 ## Solved Coverage
 
 See [Previous Year Questions - Solved and Grouped](../problems/previous-year-questions-solved.md#ds) for all 46 DS PYQ entries.
+
+See [DS1 Solved Questions and Complexity Sheets](../problems/ds1-solved-questions.md) for the 15 DS1 entries and two supporting complexity images.
+
+## Topic Pages
+
+- [Linear Structures](linear-structures.md)
+- [Trees and Search Trees](trees-and-search-trees.md)
+- [Graph Traversal](graph-traversal.md)
+- [Sorting and Searching](sorting-and-searching.md)
+- [Hashing](hashing.md)

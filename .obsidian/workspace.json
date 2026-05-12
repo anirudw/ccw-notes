@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/problems/previous-year-questions-solved.md",
+                "file": "wiki/problems/ds1-solved-questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "previous-year-questions-solved"
+              "title": "ds1-solved-questions"
             }
           }
         ]
@@ -186,15 +186,18 @@
   },
   "active": "250c7598ca80a5f5",
   "lastOpenFiles": [
+    "wiki/ds/trees-and-search-trees.md",
+    "wiki/dbms/indexing-and-buffering.md",
+    "wiki/ds/sorting-and-searching.md",
+    "wiki/ds/hashing.md",
+    "wiki/problems/previous-year-questions-solved.md",
     "wiki/problems/flat-comprehensive-solved-questions.md",
     "wiki/flat/previous-year-patterns.md",
     "wiki/dbms/previous-year-patterns.md",
     "wiki/coa/previous-year-patterns.md",
     "wiki/os/previous-year-patterns.md",
     "wiki/ds/previous-year-patterns.md",
-    "wiki/problems/previous-year-questions-solved.md",
     "wiki/sources/source-previous-year-question-papers.md",
-    "wiki/dbms/indexing-and-buffering.md",
     "wiki/flat/chomsky-hierarchy-and-closure.md",
     "wiki/flat/turing-machines-decidability.md",
     "wiki/flat/context-free-languages-pda.md",
@@ -209,9 +212,6 @@
     "wiki/problems/dbms-comprehensive-solved-questions.md",
     "wiki/problems/cache-mapping-practice.md",
     "wiki/dbms/er-model-and-keys.md",
-    "README.md",
-    "wiki/dbms/sql-and-query-languages.md",
-    "wiki/sources/source-dbms-comprehensive-study-materials-kerala-notes.md",
     "wiki/sources",
     "wiki/problems",
     "wiki/os",
